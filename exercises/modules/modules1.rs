@@ -16,5 +16,6 @@ mod sausage_factory {
 }
 
 fn main() {
+    println!("Test for Autograding");
     sausage_factory::make_sausage();
 }
